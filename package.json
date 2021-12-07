@@ -1,6 +1,6 @@
 {
 	"private": true,
-	"name": "modern-plugin-dev--part1",
+	"name": "modern-plugin-dev-part1",
 	"version": "4.1.1",
 	"main": "index.js",
 	"author": "Josh Pollock <josh@joshpress.net>",
