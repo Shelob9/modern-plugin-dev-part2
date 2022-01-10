@@ -1,6 +1,6 @@
 {
 	"private": true,
-	"name": "modern-plugin-dev-part1",
+	"name": "modern-plugin-dev-part2",
 	"version": "4.1.1",
 	"main": "index.js",
 	"author": "Josh Pollock <josh@joshpress.net>",
@@ -8,7 +8,7 @@
 	"scripts": {
 		"dev": "mdx-deck index.mdx",
 		"build": "mdx-deck build index.mdx",
-		"pdf":"npx website-pdf http://localhost:8000/print -o modern-plugin-dev-part1.pdf"
+		"pdf":"npx website-pdf http://localhost:8000/print -o modern-plugin-dev-part2.pdf"
 	},
 	"dependencies": {
 		"@emotion/core": "^10.0.7",
