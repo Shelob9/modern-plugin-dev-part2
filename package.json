@@ -6,8 +6,9 @@
 	"author": "Josh Pollock <josh@joshpress.net>",
 	"license": "MIT",
 	"scripts": {
-		"start": "mdx-deck index.mdx",
-		"build": "mdx-deck build index.mdx"
+		"dev": "mdx-deck index.mdx",
+		"build": "mdx-deck build index.mdx",
+		"pdf":"npx website-pdf http://localhost:8000/print -o modern-plugin-dev-part1.pdf"
 	},
 	"dependencies": {
 		"@emotion/core": "^10.0.7",

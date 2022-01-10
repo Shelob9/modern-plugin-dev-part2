@@ -5,8 +5,11 @@
 ## Development
 
 - Install
-  - `npm install`
+  - `yarn`
 - Start
-  - `npm run start`
+  - `yarn dev`
 - Build
-  - `npm run build`
+  - `yarn dev`
+- PDF
+  - Dev server must be running.
+  - `yarn pdf`
